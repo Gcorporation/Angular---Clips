@@ -24,4 +24,8 @@ export class RegisterComponent {
     phoneNumber: this.phoneNumber
   })
 
+  register() {
+    
+  }
+
 }
